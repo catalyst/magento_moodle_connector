@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<config>
+    <modules>
+        <Catalyst_MoodleConnector>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Catalyst_MoodleConnector>
+    </modules>
+</config>
